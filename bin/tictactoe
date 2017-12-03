@@ -32,5 +32,6 @@ include Players
         break
       else intro
       end
+      intro
   end #intro
 intro
