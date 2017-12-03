@@ -29,6 +29,7 @@ include Players
         game = Game.new(player1, player2)
         game.play
       elsif input == 4
+        break
       else intro
       end
   end #intro
